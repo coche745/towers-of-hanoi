@@ -18,4 +18,8 @@ No disk may be placed on top of a smaller disk.
 I have used my knowledge of stacks to implement the game.
 ## Technologies
 + Python
-Setup
+## Setup
+To run this project, install it locally using git
++ git clone https://github.com/coche745/towers-of-hanoi
+## Status
+Project is: finished
