@@ -19,7 +19,7 @@ I have used my knowledge of stacks to implement the game.
 ## Technologies
 + Python
 ## Setup
-To run this project, install it locally using git
+To run this project, install it locally using git and run the script.py file
 + git clone https://github.com/coche745/towers-of-hanoi
 ## Status
 Project is: finished
